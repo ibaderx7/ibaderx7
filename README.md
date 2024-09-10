@@ -19,12 +19,10 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png">
 <img align="left" alt="Digitalocean" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png"/>
@@ -32,9 +30,7 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 <img align="left" alt="Aws" width="26" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="WordPress-Woocommerce" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/woocommerce.png"/>
 <img align="left" alt="WordPress-Woocommerce" width="26px" src="https://img.icons8.com/nolan/64/docker.png"/>     
-<br />
-<br />
-<br />
+<br /> <br /> <br />
  <p>
    <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
