@@ -49,11 +49,4 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
-
-▬▬▬▬.◙.▬▬▬▬
-  ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
-◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
-█  BADER GITHUB █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
-◥█████████◤                       ▄█████     END █████▄       ▜████        BX777     ████▛
-══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+<img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
