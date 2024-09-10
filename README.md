@@ -45,6 +45,6 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 [![](https://visitcount.itsvg.in/api?id=ibaderx7&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
-
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 
