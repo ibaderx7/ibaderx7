@@ -57,9 +57,4 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 
 
 
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ibaderx7-id&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github"/><img width="425" src="https://streak-stats.demolab.com/?user=ibaderx7-id&theme=tokyonight"/>
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=ibaderx7-id&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/ibaderx7-id/github-stats">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+h GPRM ( https://gprm.itsvg.in ) -->
