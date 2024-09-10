@@ -1,5 +1,6 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt"></p>
+  [![](https://visitcount.itsvg.in/api?id=ibaderx7&icon=0&color=3)](https://visitcount.itsvg.in)
+  <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt"></p>
 <br />
 <p align="center">
   <br>
@@ -42,7 +43,7 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaderx7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ibaderx7&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
