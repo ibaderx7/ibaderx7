@@ -13,7 +13,7 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 [![](https://visitcount.itsvg.in/api?id=ibaderx7&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
-### Tech Stack: - ![React Logo](https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/reactjs.png?raw=true)
+- ![React Logo](https://github.com/anythingcodes/slack-emoji-for-techies/blob/gh-pages/emoji/reactjs.png?raw=true)
 
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
