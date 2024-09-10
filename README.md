@@ -7,6 +7,8 @@
 <img align="left" alt="ibaderx7 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">
 
 <br />
+
+
 # ☠️☠️☠️About☠️☠️☠️:
 D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥<br><br>Cr3at1ng n3xt-g3n 🔒 blockch41n & s3cur1ty pr0j3cts w1th c0v3rt 3ff1c13ncy 🕵️‍♂️<br><br>Pushing th3 l1m1ts 0f d3c3ntr4l1z3d t3chn0l0g13z 🌐 & und3rgr0und h4ckz 🛠️<br><br>D33p h4ck1ng m3th0dz ⚡, blockch41n s3cur1ty pr0t0c0lz <br><br>Th3 h1dd3n 3dg3 0f bl0ckch41n & c1ph3r3d s3cur1ty 📡<br><br>Buil7 t00lz that n0 0n3 s33z, but th3y kn0w wh3n th3y’ve b33n h1t 👾
 
