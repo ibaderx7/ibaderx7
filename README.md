@@ -13,6 +13,11 @@ D3v3l0p1n’ W3b3 💻 & D3F1 🔗 p1atf0rmz, t00lz f0r pr0t3ct1on & br34ch 💥
 [![](https://visitcount.itsvg.in/api?id=ibaderx7&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
+[<img align="left" alt="sviquarahmed.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Deadshot0x7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Deadshot0x7 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Deadshot0x7 | XDA Developers" width="22px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png">][xda]
 
 
  
